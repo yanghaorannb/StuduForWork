@@ -1,0 +1,1 @@
+D:\MINGW\bin\g++.exe -g   -Wl,@CMakeFiles\HelloWorld.dir\objects1.rsp  -o HelloWorld.exe -Wl,--out-implib,libHelloWorld.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
